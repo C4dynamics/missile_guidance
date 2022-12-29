@@ -84,7 +84,7 @@ methods
         kk        	=	0;
 %         hwait     	=	waitbar(0, '...');
 %         
-        while obj.bf        
+        while obj.bf
 %             waitbar((obj.RmtRef0 - obj.RmtRef) / obj.RmtRef0, hwait)
 
             %
